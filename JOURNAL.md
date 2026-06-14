@@ -28,4 +28,6 @@ NVM. I'm doing a full 180 and switching to a 2.2" TFT. ikr? Massive. Its going t
 Updated Schematic:
 <img width="1042" height="853" alt="image" src="https://github.com/user-attachments/assets/3ae6f722-093b-4a00-878a-fbd121a53fd5" />
 
+I should also mention the TFT Breakout Board that i've selected also has a microSD Card slot on it.
+
 Time Spent: 5 Hours
