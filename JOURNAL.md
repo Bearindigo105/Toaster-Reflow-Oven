@@ -20,6 +20,9 @@ pic of the pcb schematic thus far...
 
 I'm thinking a small 0.96" OLED display is enough. Sorry everyone in the future squinting their eyes at the screen. This is probably most affordable and least overhead. Besides, WiFi!
 
+pics of the disassembled toaster oven
+<img width="4000" height="3000" alt="IMG_20260614_011717984_HDR" src="https://github.com/user-attachments/assets/3c12fb35-99f5-419a-92e4-27e7bab37785" />
+<img width="3000" height="4000" alt="IMG_20260614_012529195" src="https://github.com/user-attachments/assets/5800db6b-3baa-431c-af52-a38d59cc211e" />
 
 
 Hours Spent: 4 Hours 15 Minutes
