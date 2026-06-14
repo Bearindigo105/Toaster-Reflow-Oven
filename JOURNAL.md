@@ -15,3 +15,11 @@ I've Disassembled the toaster oven and started looking for parts. Based on other
 because it dissipates a little less heat? I'll have to test that. Anyhoo, I also need a K-Type Thermistor and an accompanying MAX31855 chip. I'll probably also need some sort of tape or silicone to insulate
 the oven a bit better.
 
+<img width="1006" height="818" alt="image" src="https://github.com/user-attachments/assets/7c5f809d-96ec-48ff-975b-1183b4263adb" />
+pic of the pcb schematic thus far...
+
+I'm thinking a small 0.96" OLED display is enough. Sorry everyone in the future squinting their eyes at the screen. This is probably most affordable and least overhead. Besides, WiFi!
+
+
+
+Hours Spent: 4 Hours 15 Minutes
